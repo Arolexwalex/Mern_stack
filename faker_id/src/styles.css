@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+  }
+  
+  body {
+    justify-content: center;
+    text-align: center;
+    background-color: #1a1b21;
+  }
+  
+  .my-pic {
+    width: 317px;
+    height: 317px;
+    top: 44px;
+    left: 116px;
+    border-radius: 10px, 10px, 0px, 0px;
+  }
+  .my-name {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-bottom: 0px;
+    color: #ffffff;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+  .frontend-dev {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #f3bf99;
+    padding-top: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .website-name {
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #f5f5f5;
+    margin-top: 0;
+  }
+  .mail-icon {
+    width: 16px;
+    height: 16px;
+    padding-right: 10px;
+  }
+  .linkedin-icon {
+    width: 16px;
+    height: 16px;
+    padding-right: 10px;
+  }
+  .email-button {
+    width: 115px;
+    height: 34px;
+    top: 468px;
+    left: 151px;
+    border-radius: 6px;
+    border: 1px;
+    gap: 8px;
+    background-color: #ffffff;
+    /* padding-left: 20px; */
+    padding-right: 20px;
+  }
+  
+  .linkedin-button {
+    width: 115px;
+    height: 34px;
+    top: 468px;
+    left: 283px;
+    padding: 9px, 13px, 9px, 11px;
+    border-radius: 6px;
+    gap: 8px;
+    background-color: #5093e2;
+  }
+  .about {
+    color: #f5f5f5;
+    justify-content: left;
+  }
+  .about-me {
+    color: #dcdcdc;
+  }
+  .interest {
+    color: #f5f5f5;
+  }
+  .my-interest {
+    color: #dcdcdc;
+  }
+  
+  .footer {
+    background-color: #161619;
+    height: 64px;
+    left: 116px;
+    border-radius: 0px, 0px, 10px, 10px;
+    padding: 20px;
+    justify-items: center;
+    margin: 0px;
+  }
+  .twitter {
+    padding-right: 30px;
+    height: 35px;
+    width: 35px;
+    padding-left: 30px;
+  }
+  .facebook {
+    padding-right: 30px;
+    height: 35px;
+    width: 35px;
+    padding-left: 30px;
+  }
+  .instagram {
+    padding-right: 30px;
+    height: 35px;
+    width: 35px;
+    padding-top: 20px;
+    padding-left: 30px;
+  }
+  .github {
+    padding-right: 30px;
+    height: 35px;
+    width: 35px;
+    padding-left: 30px;
+  }
+  button {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
